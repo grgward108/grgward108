@@ -7,5 +7,6 @@
 - 📝 Currently reading up on transformers & motion-generation models  
 
 I write code, ship features, and enjoy turning research ideas into production systems.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
