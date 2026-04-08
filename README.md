@@ -1,11 +1,25 @@
-## Hi there 👋
+# Hi, I'm Edward
 
-### Hi, I’m Edward 👋
+AI Solutions Engineer building production systems that turn machine learning ideas into real-world products.
 
-- 🛠 Currently a Software Engineer implementing AI systems for Enterprises. 
-- 🤖 Interested in machine-learning research and how it translates into real-world products  
-- 📝 Researching transformers & motion-generation models  
+## What I'm Working On
 
-I write code, ship features, and enjoy turning research ideas into production systems.
+- Designing and deploying AI systems for enterprise use cases (AWS, backend, data pipelines)
+- Bridging research (transformers, motion generation) into production-ready applications
+- Building end-to-end products — from model to infrastructure to user-facing systems
+
+
+## Personal Projects
+
+- [PosePretrain](https://github.com/grgward108/PosePretrain) — A transformer-based pretraining framework for whole-body grasping motion generation, accepted at ICIP 2025.  
+  [Source](https://github.com/grgward108/PosePretrain)
+
+- [Perfume Decider](https://perfume-next.edwardeffendy07.workers.dev) — An AI-powered perfume discovery app that helps people find fragrances based on their preferences, notes, and style.  
+  [Live Demo](https://perfume-next.edwardeffendy07.workers.dev) · [Source](https://github.com/grgward108/perfume-next)
+
+- [Splitty](https://github.com/grgward108/splitty) — A lightweight expense-splitting app for travelers and groups that calculates who owes what with minimal transactions.  
+  [Source](https://github.com/grgward108/splitty)
+
+
 
 
