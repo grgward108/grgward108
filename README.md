@@ -15,7 +15,7 @@ AI Solutions Engineer building production systems that turn machine learning ide
 
 - [Perfume Decider](https://perfume-next.edwardeffendy07.workers.dev) — An AI-powered perfume discovery app that helps people find fragrances based on their preferences, notes, and style.  [Live Demo](https://perfume-next.edwardeffendy07.workers.dev) · [Source](https://github.com/grgward108/perfume-next)
 
-- [Splitty](https://github.com/grgward108/splitty) — A lightweight expense-splitting app for travelers and groups that calculates who owes what with minimal transactions.  [Source](https://github.com/grgward108/splitty)
+
 
 
 
